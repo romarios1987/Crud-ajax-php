@@ -1,0 +1,14 @@
+.wrap-content{
+    background-color: #c4d2ef;
+    min-height: 100vh;
+    height: 100%;
+    padding-top: 3%;
+}
+.card-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card-header h5{
+    margin: 0;
+}
